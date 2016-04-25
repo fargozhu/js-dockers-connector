@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ejaigom/js-dockers-connector/issues"
   },
-  "homepage": "https://github.com/ejaigom/js-dockers-connector#readme"
+  "homepage": "https://github.com/ejaigom/js-dockers-connector#readme",
+  "dependencies": {
+    "request": "2.72.0"
+  }
 }
