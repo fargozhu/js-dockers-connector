@@ -1,0 +1,24 @@
+{
+  "name": "js-dockers-connector",
+  "version": "1.0.0",
+  "description": "JS library to provision on Dockers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejaigom/js-dockers-connector.git"
+  },
+  "keywords": [
+    "js",
+    "dockers",
+    "connector"
+  ],
+  "author": "Jaime Gomes <jaime.gomes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ejaigom/js-dockers-connector/issues"
+  },
+  "homepage": "https://github.com/ejaigom/js-dockers-connector#readme"
+}
